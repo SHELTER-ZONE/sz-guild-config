@@ -4,5 +4,8 @@
     {"name": "Frontend", "id": "687930511611527211"},
     {"name": "Backend", "id": "809090989229998112"},
     {"name": "Fullstack", "id": "816208147357499402"}
-  ]
+  ],
+  "siteKeys": {
+    "officialSite": "a9b3f51f-1845-4c76-abb8-520c071a18aa"
+  }
 }
